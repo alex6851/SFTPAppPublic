@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFTPapp", "SFTPapp\SFTPapp.csproj", "{F18676BE-7DAB-4190-B379-4EDC5ADA8FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		FTPassistant|Any CPU = FTPassistant|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F18676BE-7DAB-4190-B379-4EDC5ADA8FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18676BE-7DAB-4190-B379-4EDC5ADA8FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18676BE-7DAB-4190-B379-4EDC5ADA8FEC}.FTPassistant|Any CPU.ActiveCfg = FTPassistant|Any CPU
+		{F18676BE-7DAB-4190-B379-4EDC5ADA8FEC}.FTPassistant|Any CPU.Build.0 = FTPassistant|Any CPU
+		{F18676BE-7DAB-4190-B379-4EDC5ADA8FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18676BE-7DAB-4190-B379-4EDC5ADA8FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38A5EDFD-1FE8-4362-B352-2D77B5AD96F9}
+	EndGlobalSection
+EndGlobal
